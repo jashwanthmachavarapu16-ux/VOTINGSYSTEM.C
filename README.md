@@ -99,5 +99,5 @@ int main() {
 
     return 0;
 }
-        votes[choice - 1]++;
-        printf("Vote recorded!\n");
+       ![WhatsApp Image 2025-12-11 at 11 55 09_7bfeb0f7](https://github.com/user-attachments/assets/6f67c402-cf8c-45c8-a454-5cd74a1a4e66)
+
